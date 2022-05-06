@@ -1,0 +1,46 @@
+body{
+    background-color: darkgray; 
+    margin: 0px;
+    padding: 0px;
+}
+
+.titulo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container{
+    margin: 100px;
+    display: flex;
+}
+
+.prologo{
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.container1{
+    margin: 100px;
+    display: flex;
+}
+
+.nome{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 100px;
+}
+
+.informaçoes{
+    margin: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.artista{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+.frase{
+    margin: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
